@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitFutureStudio</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_username">enter username</string>
+    <string name="username_not_found">Username not found</string>
+    <string name="error_message">errrororrrrrrrrr</string>
+</resources>
